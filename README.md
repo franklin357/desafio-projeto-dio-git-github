@@ -1,2 +1,3 @@
 # desafio-projeto-dio-git-github
-primeiro projeto da dio
+
+Desafio de projeto da aula de Git/Github da Dio.
