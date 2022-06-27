@@ -1,3 +1,4 @@
 # desafio-projeto-dio-git-github
 
-Desafio de projeto da aula de Git/Github da Dio.
+Desafio de projeto da aula de Git/Github da Digital Innovation One.
+
